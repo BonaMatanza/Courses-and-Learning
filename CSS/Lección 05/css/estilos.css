@@ -1,0 +1,11 @@
+body{
+    background-color: pink;
+    color: hotpink;
+    background-image: url(/css/img/Sakurita.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+}
+h1{
+    text-align: left;
+}
